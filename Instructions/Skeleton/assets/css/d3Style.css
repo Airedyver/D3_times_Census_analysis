@@ -1,0 +1,55 @@
+.tooltip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(150, 0, 150, 0.5);
+  color: #fff;
+  border:5px solid black;
+}
+
+.iframeContainer {
+   border:5px solid black;
+   margin-top: 10px;
+   margin-left:0;
+   padding-left: 0;
+   align-self: left;
+}
+
+.article {
+   border:5px solid black;
+   margin-top: 10px;
+   margin-left:0;
+   padding-left: 0;
+   align-self: left;
+   text-indent: 2em
+} 
+
+
+#h1 {
+  padding: 20px 0;
+  margin: 0;
+  font-size: 50px;
+  text-align: center;
+  font-style: oblique;
+  color: white;
+  font-family: bookman;
+}
+
+
+
+header {
+  background:purple;
+  border:10px solid black;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 500px;
+  text-align: center;
+}
+
+p {
+  text-indent: 2em
+}

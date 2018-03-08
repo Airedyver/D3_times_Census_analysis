@@ -1,0 +1,6 @@
+<query schema-version="1.0" lang="en" type="search" sig="Wr7ZF8oiXGNwf4KE4fO7D8rMsh0">
+  <search-config>
+    <topic-search dimension-name="d_dataset" dimension-value-name="2014 ACS 1-year estimates"/>
+    <category-search type="geo" summary-level-code="040" name="All States within United States and Puerto Rico"/>
+  </search-config>
+</query>
