@@ -1,1 +1,2 @@
 # D3-Census
+This is an analysis of Census and Behavioral Risk Factor Surveillance System data using Javascript's library, d3.A strong negative correlation was found between the poverty rate by the survey results of individuals per state that say they exercise at least once a month.The higher the poverty rate, the less likely an individual would say they exercised for an hour at least once a month.  
